@@ -1,0 +1,5 @@
+modelEmbeddings: "sentence-transformers/all-MiniLM-L6-v2"
+autoTokenizer: "openai-community/gpt2"
+autoModelForCausalLM: "openai-community/gpt2"
+
+
