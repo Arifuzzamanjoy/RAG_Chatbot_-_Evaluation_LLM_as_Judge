@@ -1,4 +1,3 @@
----
 
 ## RAG Chatbot Evaluation Methodology
 
@@ -11,6 +10,3 @@ The evaluation strategy for the RAG chatbot is designed to maximize performance 
 
 These elements are integral to the evaluation framework, enabling systematic improvements in the chatbot's accuracy and functionality. The ongoing process of testing and refinement ensures continual enhancement of the chatbot's capabilities.
 
----
-
-This revised section is tailored for inclusion in a GitHub README.md, reflecting a singular development effort and referencing the Hugging Face cookbook for RAG evaluation. It's structured to clearly communicate the technical approach in a concise and informative manner.
