@@ -10,3 +10,4 @@ The evaluation strategy for the RAG chatbot is designed to maximize performance 
 
 These elements are integral to the evaluation framework, enabling systematic improvements in the chatbot's accuracy and functionality. The ongoing process of testing and refinement ensures continual enhancement of the chatbot's capabilities.
 
+reference : https://huggingface.co/learn/cookbook/rag_evaluation
