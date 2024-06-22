@@ -29,4 +29,5 @@ Local Execution 💻
 To run the PDF Interaction ChatBot, use the following command:
 
 cd src
+
 python app.py
